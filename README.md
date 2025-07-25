@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI/ML and web development projects<br>
+🔭 I’m currently working on AI/ML,data science and web development projects<br>
 
 
 ## 🌐 Socials:
